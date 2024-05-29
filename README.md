@@ -1,9 +1,11 @@
-# Segmentação de Clientes com K-means
+# Segmentação de Clientes com K-means utilizando Python
 
 Este projeto tem como objetivo realizar a segmentação de clientes de um shopping utilizando o algoritmo de clustering K-means. A segmentação permite identificar grupos distintos de clientes com características semelhantes, auxiliando na criação de estratégias de marketing direcionadas e personalizadas.
 
 Foi utilizada a base de dados "Mall Customer Segmentation Data", disponível no link:
 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+A linguagem utilizada foi Python utilizando o notebook do Google Colab. Para ver o projeto completo basta acessar o arquivo "kMeans_Clustering.ipynb" neste repositório.
 
 ## Descrição do Projeto
 
