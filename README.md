@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar a segmentação de clientes de um shoppi
 Foi utilizada a base de dados "Mall Customer Segmentation Data", disponível no link:
 [Dataset_Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
-A linguagem utilizada foi Python utilizando o notebook do Google Colab. Para ver o projeto completo basta acessar o arquivo "kMeans_Clustering.ipynb" neste repositório.
+A linguagem utilizada foi Python utilizando o notebook do Google Colab. Para ver o projeto completo basta acessar o link [K-means](https://github.com/gaiecks/k-means-clustering/blob/main/kMeans_Clustering.ipynb).
 
 
 ## Descrição do Projeto
