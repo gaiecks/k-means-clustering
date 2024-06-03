@@ -3,9 +3,10 @@
 Este projeto tem como objetivo realizar a segmentação de clientes de um shopping utilizando o algoritmo de clustering K-means. A segmentação permite identificar grupos distintos de clientes com características semelhantes, auxiliando na criação de estratégias de marketing direcionadas e personalizadas.
 
 Foi utilizada a base de dados "Mall Customer Segmentation Data", disponível no link:
-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+[Dataset_Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
 A linguagem utilizada foi Python utilizando o notebook do Google Colab. Para ver o projeto completo basta acessar o arquivo "kMeans_Clustering.ipynb" neste repositório.
+
 
 ## Descrição do Projeto
 
@@ -13,6 +14,7 @@ A segmentação de clientes é uma técnica poderosa para entender melhor os dif
 - Idade
 - Renda Anual (em milhares de dólares)
 - Pontuação de Gastos (1-100)
+
 
 ## Metodologia
 
@@ -33,6 +35,7 @@ A segmentação de clientes é uma técnica poderosa para entender melhor os dif
 
 5. **Análise dos Resultados:**
    - As médias das variáveis para cada cluster foram calculadas, permitindo uma interpretação detalhada dos diferentes segmentos de clientes.
+
 
 ## Principais Achados
 
@@ -59,6 +62,7 @@ A segmentação de clientes é uma técnica poderosa para entender melhor os dif
 - **Renda Anual Média:** 47.71 mil dólares
 - **Pontuação de Gastos Média:** 39.97
 - **Perfil:** Clientes mais velhos com renda média e baixa propensão a gastar. Oferecer produtos que agreguem valor e segurança pode ser uma estratégia eficaz.
+
 
 ## Conclusão
 
